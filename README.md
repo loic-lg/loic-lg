@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hi, I’m Loic Le Gal  
 
-<!--
-**loic-lg/loic-lg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧐 **About Me**  
 
-Here are some ideas to get you started:
+🎓 Master’s student in System Architecture at EPITECH Strasbourg.  
+🌱 Currently learning: Web Development, DevOps, OOP, and also DevApps.  
+🚀 Passionate about solving challenges and working on innovative projects, from analysis to implementation.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ **Skills**  
+
+- **Programming Languages:** Java, Python, PHP.  
+- **Web Development:** HTML, CSS.  
+- **Other Skills:** Git, MySQL, System and Network Administration.  
+
+📬 **How to Reach Me**  
+
+- 📧 Email: loic.legal@epitech.eu  
+- 💼 LinkedIn: [Loic Le Gal](https://www.linkedin.com/in/loic-le-gal/)  
+
+✨ This `README.md` is my dynamic introduction. Feel free to connect with me for collaboration or exciting projects!  
