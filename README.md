@@ -1,4 +1,4 @@
-👋 Hi, I’m Loic Le Gal  
+👋 Hi, I’m Loïc Le Gal  
 
 🧐 **About Me**  
 
