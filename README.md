@@ -15,6 +15,6 @@
 📬 **How to Reach Me**  
 
 - 📧 Email: loic.legal@epitech.eu  
-- 💼 LinkedIn: [Loic Le Gal](https://www.linkedin.com/in/loic-le-gal/)  
+- 💼 LinkedIn: [Loic Le Gal](https://www.linkedin.com/in/lo%C3%AFc-le-gal/)  
 
 ✨ This `README.md` is my dynamic introduction. Feel free to connect with me for collaboration or exciting projects!  
