@@ -8,13 +8,13 @@
 
 🛠️ **Skills**  
 
-- **Programming Languages:** Java, Python, PHP.  
-- **Web Development:** HTML, CSS.  
-- **Other Skills:** Git, MySQL, System and Network Administration.  
+- **Programming Languages:** Java, Python, PHP.   
+- **Web Development:** HTML, CSS.
+- **Other Skills:** Git, MySQL, MERN stack, System and Network Administration.  
 
 📬 **How to Reach Me**  
 
 - 📧 Email: loic.legal@epitech.eu  
-- 💼 LinkedIn: [Loic Le Gal](https://www.linkedin.com/in/lo%C3%AFc-le-gal/)  
+- 💼 LinkedIn: [Loic Le Gal](https://wwwlinkedin.com/in/lo%C3%AFc-le-gal/)  
 
 ✨ This `README.md` is my dynamic introduction. Feel free to connect with me for collaboration or exciting projects!  
