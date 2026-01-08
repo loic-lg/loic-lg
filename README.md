@@ -6,12 +6,6 @@
  Currently learning: Web Development, DevOps, OOP, and also DevApps.  
  Passionate about solving challenges and working on innovative projects, from analysis to implementation.  
 
- **Skills**  
-
-- **Programming Languages:** Java, Python, PHP.   
-- **Web Development:** HTML, CSS.
-- **Other Skills:** Git, MySQL, MERN stack, System and Network Administration.  
-
  **How to Reach Me**  
 
 -  Email: loic.legal@epitech.eu  
